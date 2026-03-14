@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "anti-resonance"
 version = "0.1.0"
-description = ""
+description = "Post-retrieval balancing for RAG pipelines — prevent positive recall bias from resonating with LLM parametric beliefs"
 authors = [
     { name = "Mnemox AI", email = "dev@mnemox.ai" },
 ]
